@@ -302,7 +302,7 @@ header .logo img {
     }
 }
 
-@media (max-width: 991px) {
+@media (max-width: 600px) {
     header {
         padding: 20px;
     }
